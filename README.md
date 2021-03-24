@@ -1,7 +1,7 @@
 - 👋 Hi, I am Khushbu Maheshwari
 - 🎓 I'm in BSc.CS 2nd year
 - 🌱 I’m currently learning c & c++
-- 📫 How to reach me: Gmail
+- 📫 How to reach me email
 
 <!---
 khushbumaheshwarii/khushbumaheshwarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
