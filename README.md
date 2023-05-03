@@ -20,7 +20,7 @@ Hi! My name is Khushbu, I'm a passionate Front-End Developer, Communicator and a
   
 - 👩‍💻Intern at **InternPe as Web Developer**
   
-- 📤Connect with me on  <a href="https://linkedin.com/in/https://www.linkedin.com/in/khushbu-maheshwari-004214219/">**Linkedin**</a>
+- 📤Connect with me on  <a href="https://www.linkedin.com/in/khushbu-maheshwari-004214219/">**Linkedin**</a>
   
  </div>
 <div align="center">  
