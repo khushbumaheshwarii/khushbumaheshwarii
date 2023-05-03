@@ -9,15 +9,26 @@ Hi! My name is Khushbu, I'm a passionate Front-End Developer, Communicator and a
  </p>
  <div align="center">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkhushbumaheshwarii%2Fkhushbumaheshwarii&label=VISITORS&labelColor=%23d9e3f0&countColor=%232ccce4"  width="150" />
+  
 </div>
+<img align="right" height="180" width="300" src="https://thumbs.gfycat.com/ContentHeftyGuillemot-size_restricted.gif" />
+<div align="left">
+  
+- 🌱 I’m currently learning **javascript**
+ 
+- 📫 How to reach me **khushbumaheshwari007@gmail.com**
+  
+- 👩‍💻Intern at **InternPe as Web Developer**
+  
+- 📤Connect with me on  <a href="https://linkedin.com/in/https://www.linkedin.com/in/khushbu-maheshwari-004214219/">**Linkedin**</a>
+  
+ </div>
 <div align="center">  
     <a href="https://discord.com/users/992137362530390127"><img src="https://lanyard.cnrad.dev/api/992137362530390127" /></a>
-</div>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<div>
 <!-----------------------------------------------------------------------------------Other-------------------------------------------------------------------------------->
 
 ## ⚛️ Frameworks, Languages & Other Tools        
