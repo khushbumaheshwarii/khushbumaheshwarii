@@ -20,8 +20,18 @@ Hi! My name is Khushbu, I'm a passionate Front-End Developer, Communicator and a
   
 - 👩‍💻Intern at **InternPe as Web Developer**
   
-- 📤Connect with me on  <a href="https://www.linkedin.com/in/khushbu-maheshwari-004214219/">**Linkedin**</a>
+- 📤Connect with me on  
+<!--   <a href="https://www.linkedin.com/in/khushbu-maheshwari-004214219/">**Linkedin**</a> -->
   
+  <a href="https://twitter.com/khushbumahii" target="_blank" rel="noopener">
+    <img width="20" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
+</a> 
+<a href="https://www.linkedin.com/in/khushbu-maheshwari-004214219/" target="_blank" rel="noopener">
+    <img width="20" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
+</a> 
+<a href="https://discordapp.com/users/butterhost" target="_blank" rel="noopener">
+    <img width="20" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/discord_message_interaction_logo_communication-512.png" alt="Discord">
+
  </div>
 <div align="center">  
     <a href="https://discord.com/users/992137362530390127"><img src="https://lanyard.cnrad.dev/api/992137362530390127" /></a>
