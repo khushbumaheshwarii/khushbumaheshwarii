@@ -81,11 +81,11 @@ Hi! My name is Khushbu, I'm a passionate Front-End Developer, Communicator and a
 
 ### ⚡ Recent Activity  
 <!--START_SECTION:activity-->  
- `[03/05 2:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [WebXDAO/WebXDAO.github.io](https://github.com/WebXDAO/WebXDAO.github.io)  
+<!--  `[03/05 2:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [WebXDAO/WebXDAO.github.io](https://github.com/WebXDAO/WebXDAO.github.io)  
 `[03/05 2:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#272`](https://github.com//WebXDAO/WebXDAO.github.io/pull/270 'Revert "about section & faq page updated ✨"') in [WebXDAO/WebXDAO.github.io](https://github.com/WebXDAO/WebXDAO.github.io)  
 `[30/04 7:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#270`](https://github.com//WebXDAO/WebXDAO.github.io/pull/270 'Revert "about section & faq page updated ✨"') in [WebXDAO/WebXDAO.github.io](https://github.com/WebXDAO/WebXDAO.github.io)  
 `[30/04 7:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`link-update`](https://github.com/khushbumaheshwarii/WebXDAO.github.io/tree/link-update) in [WebXDAO/WebXDAO.github.io](https://github.com/WebXDAO/WebXDAO.github.io)  
-
+ -->
 <!---------------------------------------------------------more detail--------------------------------------------------------->
 
 
