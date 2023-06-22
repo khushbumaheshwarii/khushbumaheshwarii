@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khushbu</h1
   
-Hi! My name is Khushbu, I'm a passionate Front-End Developer, Communicator and a dedicate learner with over a year of experience in developing, I am always looking to expand my skillset, has done Internship at **InternPe as a Web Devloper**. Currently, I'm Seeking for challenging position in a reputed organization, where i can learn new skills, expand my knowledge, and leverage my learnings
+Hi! My name is Khushbu, I'm a passionate Front-End Developer, Communicator and a dedicate learner with over a year of experience in developing, I am always looking to expand my skillset. Currently, I'm Seeking for challenging position in a reputed organization, where i can learn new skills, expand my knowledge, and leverage my learnings
 
 <p align="center">
     <a href = "mailto: khushbumaheshwari007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/khushbumaheshwari007@gmail.com-D74E43?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -17,9 +17,7 @@ Hi! My name is Khushbu, I'm a passionate Front-End Developer, Communicator and a
 - 🌱 I’m currently learning **javascript**
  
 - 📫 How to reach me **khushbumaheshwari007@gmail.com**
-  
-- 👩‍💻Intern at **InternPe as Web Developer**
-  
+
 - 📤Connect with me on  
 <!--   <a href="https://www.linkedin.com/in/khushbu-maheshwari-004214219/">**Linkedin**</a> -->
   
