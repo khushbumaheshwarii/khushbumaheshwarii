@@ -42,7 +42,7 @@ Hi! My name is Khushbu, I'm a passionate Front-End Developer, Communicator and a
 ## ⚛️ Frameworks, Languages & Other Tools        
  
 <p align="left"> 
- <img src="https://skillicons.dev/icons?i=js,react,bootstrap,c,html,css,mysql,github" />
+ <img src="https://skillicons.dev/icons?i=js,react,bootstrap,c,html,css,mysql,github,markdown" />
 </p>
 
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
