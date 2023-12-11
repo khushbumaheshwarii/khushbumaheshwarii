@@ -32,7 +32,7 @@ Hi! My name is Khushbu, I'm a passionate Front-End Developer, Communicator and a
 
  </div>
 <div align="center">  
-    <a href="https://discord.com/users/992137362530390127"><img src="https://lanyard.cnrad.dev/api/992137362530390127" /></a>
+<!--     <a href="https://discord.com/users/92137362530390127"><img src="https://lanyard.cnrad.dev/api/992137362530390127" /></a> -->
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
